@@ -27,6 +27,7 @@
     "express": "^4.19.2"
   },
   "devDependencies": {
+    "@types/express": "^4.17.21",
     "eslint": "^9.9.1",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
